@@ -1,0 +1,24 @@
+button{
+    margin:0.2vw 0.5vw 0.2vw 0.5vw; 
+    width: 3vw;
+    height: 3vw;
+    background-color: blue;
+    color: white;
+    border-radius: 30%;
+    font-size: 1vw;
+}
+
+.container{
+    margin-top: 2vw;
+    padding: 1%;
+    border-radius: 10%;
+    width: 20%;
+}
+
+.noNum, #neg, #dot{
+    background-color:red;
+}
+
+.equal{
+    background-color:green;
+}
